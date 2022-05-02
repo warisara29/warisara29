@@ -1,8 +1,8 @@
 - 👋 Hi, I’m warisara
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developer 
 - 🌱 I’m currently learning react.js and more 
+- # I'm working as Full-Stack Developer
 - 📫 How to reach me ...
-    FB : Warisara Pilasuk
     Email : warisarap225@gmail.com
 
 <!---
